@@ -40,7 +40,9 @@ tqdm==4.60.0
 
 ## File Tree
 
-This folder contains all neccesary code files and supplemental material for the main paper. . ├── main_attention.py # Source Code for reproducing GSTAM results on behncmark datasets and IPCs
+This folder contains all neccesary code files and supplemental material for the main paper.
+
+├── main_attention.py # Source Code for reproducing GSTAM results on behncmark datasets and IPCs
 
 ├── scripts   # The folder that contains shell files for reproducibility for each dataset
 
