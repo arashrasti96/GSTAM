@@ -1,0 +1,2 @@
+INFO:root:Namespace(dataset='NCI1', dis_metric='ours', dropout=0, epochs=10000, filename='NCI1_ipc1_s0_lra1.0_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=1, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [56.01581509 57.42092457 55.30413625]

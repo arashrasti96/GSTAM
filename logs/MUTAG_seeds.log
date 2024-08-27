@@ -1,0 +1,20 @@
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc1_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=1, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [72.53333333 76.84210526 89.47368421]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc1_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=1, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [72.53333333 76.84210526 89.47368421]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc1_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=1, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [70.8        73.15789474 86.84210526]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc10_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=10, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [67.26666667 74.21052632 81.05263158]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc10_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=10, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [69.93333333 73.68421053 83.68421053]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc10_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=10, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [69.93333333 73.68421053 83.68421053]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc10_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=10, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [69.93333333 73.68421053 83.68421053]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc20_s0_lra0.2_lrf0.005.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=20, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [66.93333333 74.21052632 81.05263158]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc20_s0_lra0.2_lrf0.005.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=20, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [67.93333333 74.21052632 83.15789474]
+INFO:root:Namespace(dataset='MUTAG', dis_metric='ours', dropout=0, epochs=10000, filename='MUTAG_ipc1_s0_lra0.1_lrf0.01.pt', gpu_id=0, hidden=128, init='noise', inner=0, ipc=1, lr_adj=0.01, lr_feat=0.01, nconvs=3, net_norm='none', nruns=10, num_bases=0, num_blocks=1, outer=1, pooling='mean', reduction_rate=0.1, seed=0, stru_discrete=1)
+Mean Train/Val/TestAcc/TrainLoss: [72.26666667 76.84210526 92.10526316]
